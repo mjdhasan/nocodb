@@ -6,7 +6,7 @@
       </p>
       <share-icons
         class="d-flex justify-center mb-2"
-        url="https://github.com/nocodb/nocodb"
+        url="https://github.com/"
         :social-medias="['renren','douban','weibo','wechat']"
       />
       <v-divider />
@@ -15,7 +15,7 @@
       </div>
 
       <!--      <div class="justify-center caption grey&#45;&#45;text mt-2 d-flex align-center ">
-        <img src="favicon-32.png" alt="nocodb" width="20px">
+        <img src="favicon-32.png" alt="ESGnie" width="20px">
         <v-icon size="13" color="red" class="mx-3">
           mdi-heart
         </v-icon>
@@ -37,7 +37,7 @@
           :class="{ active: showCommunity }"
           dense
         >
-          <v-list-item dense href="https://discord.gg/5RgZmkW" target="_blank">
+          <v-list-item dense href="https://discord.gg" target="_blank">
             <!-- Get your questions answered -->
             <v-list-item-title>
               <v-icon class="mr-1" small :color="textColors[0]">
@@ -49,7 +49,7 @@
             </v-list-item-title>
           </v-list-item>
           <v-divider />
-          <v-list-item dense href="https://twitter.com/NocoDB" target="_blank">
+          <v-list-item dense href="https://twitter.com" target="_blank">
             <!-- Follow NocoDB -->
             <v-list-item-title>
               <v-icon class="mr-1" small :color="textColors[1]">
@@ -61,7 +61,7 @@
             </v-list-item-title>
           </v-list-item>
           <v-divider />
-          <v-list-item dense href="https://www.reddit.com/r/NocoDB/" target="_blank">
+          <v-list-item dense href="https://www.reddit.com/" target="_blank">
             <!-- Get your questions answered -->
             <v-list-item-title>
               <v-icon class="mr-1" small color="#ff4600">
@@ -76,7 +76,7 @@
           <v-list-item
             dense
             target="_blank"
-            href="https://calendly.com/nocodb"
+            href="https://calendly.com"
           >
             <!-- Book a Free DEMO -->
             <v-list-item-title>
